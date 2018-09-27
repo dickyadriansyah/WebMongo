@@ -1,0 +1,85 @@
+﻿@*@model List<DataEntities.Student>*@
+@{
+    ViewBag.Title = "Data Student";
+}
+<script src="~/Scripts/angular.js"></script>
+<script src="~/Scripts/StudentJs.js"></script>
+
+<h2>Daftar Student</h2>
+
+<div ng-app="myApp">
+    <div ng-controller="myCtrl" ng-init="GetAllData()">
+        <div class="row">
+            <div class="container">
+                <div class="col-md-12">
+                    <div class="panel panel-default">
+                        <div class="panel-body" id="body_data">
+                            <table class="table table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Nama Siswa</th>
+                                        <th>Alamat</th>
+                                        <th>Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                        <tr ng-repeat="student in students">
+                                            <input type="hidden" value="{{student.id}}" id="id_student"/>
+                                            <td>{{student.Name}}</td>
+                                            <td>{{student.Address}}</td>
+                                            <td>
+                                                <input type="button" class="btn btn-warning" id="update" value="Update" ng-click="GetById(student)" />
+                                                <input type="button" class="btn btn-danger" id="delete" value="Delete" ng-click="DeleteStudent(student.id)" />
+                                            </td>
+                                        </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-horizontal" , role="form">
+            <div class="container">
+                <div class="row">
+                    <input type="hidden" id="id"/>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="form-group">
+                            <label class="col-md-4 control-label">ID Student</label>
+                            <div class="col-md-8">
+                                <input type="text" class="form-control" id="StudentID" placeholder="ID Student" ng-model="StudentID" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="form-group">
+                            <label class="col-md-4 control-label">Name</label>
+                            <div class="col-md-8">
+                                <input type="text" class="form-control" id="Name" placeholder="Name" ng-model="Name" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="form-group">
+                            <label class="col-md-4 control-label">Address</label>
+                            <div class="col-md-8">
+                                <input type="text" class="form-control" id="Address" placeholder="Address" ng-model="Address" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6 col-lg-4">
+                            <input type="button" id="btnSave" class="btn-default" value="Save" ng-click="InsertData()" />
+                            @*<button id="btnSave" class="btn-primary" value="Save" ng-click="InsertData()"></button>*@
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+

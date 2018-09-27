@@ -1,0 +1,13 @@
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\bin\Debug\ServiceProvider.dll
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\bin\Debug\ServiceProvider.pdb
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\bin\Debug\DataEntities.dll
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\bin\Debug\MongoDB.Bson.dll
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\bin\Debug\MongoDB.Driver.dll
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\bin\Debug\RestSharp.dll
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\bin\Debug\DataEntities.pdb
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\bin\Debug\MongoDB.Bson.xml
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\bin\Debug\MongoDB.Driver.xml
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\bin\Debug\RestSharp.xml
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\obj\Debug\ServiceProvider.csprojResolveAssemblyReference.cache
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\obj\Debug\ServiceProvider.dll
+D:\dicky\C#\MongoAPI\MongoUI\ServiceProvider\obj\Debug\ServiceProvider.pdb

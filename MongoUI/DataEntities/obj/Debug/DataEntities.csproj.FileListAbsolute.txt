@@ -1,0 +1,7 @@
+D:\dicky\C#\MongoAPI\MongoUI\DataEntities\bin\Debug\DataEntities.dll
+D:\dicky\C#\MongoAPI\MongoUI\DataEntities\bin\Debug\DataEntities.pdb
+D:\dicky\C#\MongoAPI\MongoUI\DataEntities\bin\Debug\MongoDB.Bson.dll
+D:\dicky\C#\MongoAPI\MongoUI\DataEntities\bin\Debug\MongoDB.Bson.xml
+D:\dicky\C#\MongoAPI\MongoUI\DataEntities\obj\Debug\DataEntities.csprojResolveAssemblyReference.cache
+D:\dicky\C#\MongoAPI\MongoUI\DataEntities\obj\Debug\DataEntities.dll
+D:\dicky\C#\MongoAPI\MongoUI\DataEntities\obj\Debug\DataEntities.pdb

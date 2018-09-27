@@ -1,0 +1,17 @@
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\DataLogic.dll
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\DataLogic.pdb
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\DataEntities.dll
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\MongoDB.Bson.dll
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\MongoDB.Driver.dll
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\Newtonsoft.Json.dll
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\ServiceProvider.dll
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\RestSharp.dll
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\DataEntities.pdb
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\ServiceProvider.pdb
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\MongoDB.Bson.xml
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\MongoDB.Driver.xml
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\Newtonsoft.Json.xml
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\bin\Debug\RestSharp.xml
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\obj\Debug\DataLogic.csprojResolveAssemblyReference.cache
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\obj\Debug\DataLogic.dll
+D:\dicky\C#\MongoAPI\MongoUI\DataLogic\obj\Debug\DataLogic.pdb
